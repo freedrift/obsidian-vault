@@ -159,19 +159,9 @@
               "icon": "lucide-file",
               "title": "插件不再活动"
             }
-          },
-          {
-            "id": "f19d33f4070615ca",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
