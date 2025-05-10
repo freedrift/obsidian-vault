@@ -1,0 +1,12 @@
+{
+  "promptDelete": false,
+  "strictLineBreaks": false,
+  "attachmentFolderPath": "assets",
+  "spellcheck": false,
+  "useTab": true,
+  "showUnsupportedFiles": true,
+  "alwaysUpdateLinks": false,
+  "useMarkdownLinks": false,
+  "newLinkFormat": "shortest",
+  "userIgnoreFilters": null
+}

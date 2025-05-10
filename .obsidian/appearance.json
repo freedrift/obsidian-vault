@@ -1,0 +1,10 @@
+{
+  "cssTheme": "",
+  "accentColor": "",
+  "theme": "system",
+  "textFontFamily": "思源黑体,PingFang SC",
+  "interfaceFontFamily": "SF Pro Display,PingFang SC",
+  "baseFontSize": 16,
+  "baseFontSizeAction": false,
+  "showRibbon": true
+}
