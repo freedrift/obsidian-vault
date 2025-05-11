@@ -4,35 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "d38af3c6e84fba89",
+        "id": "53d7cc47601b3841",
         "type": "tabs",
         "children": [
           {
-            "id": "b3c75d89a6921ab6",
+            "id": "52292b1e64ba43be",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "PDF/言语理解与表达系统课笔记.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "言语理解与表达系统课笔记"
-            }
-          },
-          {
-            "id": "06236d4d30340593",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "PDF/言语理解与表达系统课笔记.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "言语理解与表达系统课笔记"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -153,13 +138,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PDF/言语理解与表达系统课笔记.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "言语理解与表达系统课笔记 的大纲"
+              "title": "大纲"
             }
           }
         ],
@@ -179,12 +163,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "06236d4d30340593",
+  "active": "426dba73dbbe6768",
   "lastOpenFiles": [
-    "PDF/言语理解与表达系统课笔记标注.md",
-    "PDF/言语理解与表达系统课笔记.pdf",
-    "PDF",
+    "Attachment/言语理解与表达系统课笔记.pdf",
+    "言语理解与表达系统课笔记标注.md",
     "哈哈哈.md",
+    "Attachment",
     "2025-05-11.md",
     "未命名看板.md",
     "Clippings/Logseq PC和安卓端同步 Gitee.md",
