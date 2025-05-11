@@ -11,10 +11,14 @@
             "id": "52292b1e64ba43be",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "Obsidian"
             }
           }
         ]
@@ -74,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 279.5
+    "width": 279.5,
+    "collapsed": true
   },
   "right": {
     "id": "d5c1d2e2858215b7",
@@ -138,12 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Obsidian.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "Obsidian 的大纲"
             }
           }
         ],
@@ -151,23 +157,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5
+    "width": 329.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "templates:插入模板": false,
-      "cloze:显/隐所有填空": false,
       "obsidian-git:Open Git source control": false,
       "command-palette:打开命令面板": false
     }
   },
-  "active": "426dba73dbbe6768",
+  "active": "52292b1e64ba43be",
   "lastOpenFiles": [
     "Attachment/言语理解与表达系统课笔记.pdf",
+    "Obsidian.md",
     "言语理解与表达系统课笔记标注.md",
-    "哈哈哈.md",
     "Attachment",
     "2025-05-11.md",
     "未命名看板.md",
