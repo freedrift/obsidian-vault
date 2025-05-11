@@ -4,24 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "83420ed2b4976d17",
+        "id": "d38af3c6e84fba89",
         "type": "tabs",
         "children": [
           {
-            "id": "2209350f6d89ba9f",
+            "id": "b3c75d89a6921ab6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "哈哈哈.md",
-                "mode": "source",
-                "source": false
+                "file": "PDF/言语理解与表达系统课笔记.pdf"
               },
-              "icon": "lucide-file",
-              "title": "哈哈哈"
+              "icon": "lucide-file-text",
+              "title": "言语理解与表达系统课笔记"
+            }
+          },
+          {
+            "id": "06236d4d30340593",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "PDF/言语理解与表达系统课笔记.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "言语理解与表达系统课笔记"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 279.5,
-    "collapsed": true
+    "width": 279.5
   },
   "right": {
     "id": "d5c1d2e2858215b7",
@@ -143,13 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "哈哈哈.md",
+                "file": "PDF/言语理解与表达系统课笔记.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "哈哈哈 的大纲"
+              "title": "言语理解与表达系统课笔记 的大纲"
             }
           }
         ],
@@ -157,8 +167,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5,
-    "collapsed": true
+    "width": 329.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,11 +179,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "2209350f6d89ba9f",
+  "active": "06236d4d30340593",
   "lastOpenFiles": [
+    "PDF/言语理解与表达系统课笔记标注.md",
+    "PDF/言语理解与表达系统课笔记.pdf",
+    "PDF",
+    "哈哈哈.md",
     "2025-05-11.md",
     "未命名看板.md",
-    "哈哈哈.md",
     "Clippings/Logseq PC和安卓端同步 Gitee.md",
     "Clippings",
     "写作",
@@ -193,8 +205,6 @@
     "000 收集箱",
     "assets/行测资料/阿里木江言语系统课笔记.pdf",
     "assets/没咋了 经典错误系列/#1等价无穷小易错点（带交流群）.pdf",
-    "assets/行测资料/刘文超资料分析系统课讲义.pdf",
-    "001 行测/资料分析",
     "302 数学/没咋了 核心专题精讲/总结.md",
     "000 收集箱/考研学习路线.md",
     "01 行政能力测试/言语理解与表达笔记.md",
@@ -213,8 +223,6 @@
     "Temple/001-日记模板.md",
     "Act/123.md",
     "Act/网站.md",
-    "Daily/2025-04-30.md",
-    "Daily/04-30.md",
     "未命名.canvas"
   ]
 }
