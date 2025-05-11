@@ -8,5 +8,6 @@
   "alwaysUpdateLinks": false,
   "useMarkdownLinks": false,
   "newLinkFormat": "shortest",
-  "userIgnoreFilters": null
+  "userIgnoreFilters": null,
+  "showInlineTitle": false
 }
