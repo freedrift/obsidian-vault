@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-05-11.md",
+                "file": "哈哈哈.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-05-11"
+              "title": "哈哈哈"
             }
           }
         ]
@@ -73,22 +73,13 @@
               "icon": "lucide-bookmark",
               "title": "书签"
             }
-          },
-          {
-            "id": "dc4c4431cabbf5f8",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 279.5
+    "width": 279.5,
+    "collapsed": true
   },
   "right": {
     "id": "d5c1d2e2858215b7",
@@ -152,27 +143,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2025-05-11.md",
+                "file": "哈哈哈.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-05-11 的大纲"
-            }
-          },
-          {
-            "id": "cf31daadeb26e064",
-            "type": "leaf",
-            "state": {
-              "type": "planner-timeline",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Timeline"
+              "title": "哈哈哈 的大纲"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -184,21 +165,16 @@
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "templates:插入模板": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false,
       "cloze:显/隐所有填空": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-kanban:创建新看板": false,
-      "obsidian-day-planner:Open Timeline": false,
-      "obsidian-day-planner:Open Multi-Day View": false,
       "command-palette:打开命令面板": false
     }
   },
-  "active": "426dba73dbbe6768",
+  "active": "2209350f6d89ba9f",
   "lastOpenFiles": [
-    "哈哈哈.md",
-    "未命名看板.md",
     "2025-05-11.md",
+    "未命名看板.md",
+    "哈哈哈.md",
     "Clippings/Logseq PC和安卓端同步 Gitee.md",
     "Clippings",
     "写作",

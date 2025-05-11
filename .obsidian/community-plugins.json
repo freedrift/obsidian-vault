@@ -1,21 +1,12 @@
 [
   "markdown-prettifier",
-  "obsidian-outliner",
   "oz-image-plugin",
   "obsidian-latex-suite",
   "easy-typing-obsidian",
-  "obsidian-excalidraw-plugin",
   "obsidian-quiet-outline",
   "cloze",
   "obsidian-style-settings",
-  "obsidian-mind-map",
-  "table-editor-obsidian",
   "obsidian-git",
   "readwise-official",
-  "obsidian-kanban",
-  "obsidian-tasks-plugin",
-  "obsidian-day-planner",
-  "dataview",
-  "obsidian-annotator",
-  "calendar"
+  "obsidian-annotator"
 ]
