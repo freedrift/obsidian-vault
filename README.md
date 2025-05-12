@@ -1,12 +1,14 @@
-插件推荐：
+Personalized Obsidian Vault
 
-- Git：同步
-- Editing Toolbar：工具栏
-- Outliner：规范列表
-- Quiet Outine：大纲适配公式
-- Easy Typing：中英文之间空格
-- Latex Suite：简化输入公式
-- Advanced Table：表格功能增强
+Plugin Recommendation：
+
+- Git
+- Editing Toolbar
+- Outliner
+- Quiet Outine：The latex formula can be displayed in the outline.
+- Easy Typing：Spaces between Chinese and English
+- Latex Suite：Simplify the input of latex formulas
+- Advanced Table
 - Dataview
 - Image in Editor
 - Markdown prettifier
