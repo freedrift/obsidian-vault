@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工具使用体验.md",
+                "file": "Hexo博客搭建.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "工具使用体验"
+              "title": "Hexo博客搭建"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "工具使用体验.md",
+                "file": "Hexo博客搭建.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "工具使用体验 的大纲"
+              "title": "Hexo博客搭建 的大纲"
             }
           },
           {
@@ -179,10 +179,11 @@
   },
   "active": "52292b1e64ba43be",
   "lastOpenFiles": [
-    "Logseq/Logseq同步方式.md",
     "工具使用体验.md",
+    "Hexo博客搭建.md",
+    "Obsidian使用场景.md",
+    "Logseq同步方式.md",
     "Obsidian",
-    "Obsidian/Obsidian使用场景.md",
     "Logseq",
     "assets/屏幕截图 2025-05-11 171056.png",
     "assets/Pasted image 20250511172931.png",
