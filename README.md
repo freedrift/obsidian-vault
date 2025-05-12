@@ -1,0 +1,22 @@
+插件推荐：
+
+- Git：同步
+- Editing Toolbar：工具栏
+- Outliner：规范列表
+- Quiet Outine：大纲适配公式
+- Easy Typing：中英文之间空格
+- Latex Suite：简化输入公式
+- Advanced Table：表格功能增强
+- Dataview
+- Image in Editor
+- Markdown prettifier
+- Kanban
+- Mind Map
+- Markmind
+- Calendar
+- Day Planner
+- Cloze
+- Excalidraw
+- Tasks
+- Readwise Official
+- Style Settings

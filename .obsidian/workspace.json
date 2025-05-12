@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hexo博客搭建.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hexo博客搭建"
+              "title": "README"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hexo博客搭建.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Hexo博客搭建 的大纲"
+              "title": "README 的大纲"
             }
           },
           {
@@ -177,11 +177,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "52292b1e64ba43be",
+  "active": "46ba2a5b71d3ae6f",
   "lastOpenFiles": [
     "工具使用体验.md",
+    "README.md",
     "Hexo博客搭建.md",
-    "Obsidian使用场景.md",
     "Logseq同步方式.md",
     "Obsidian",
     "Logseq",
