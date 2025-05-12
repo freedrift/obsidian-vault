@@ -1,6 +1,4 @@
-## Logseq 同步方式
-
-### 新建 Gitee 仓库
+## 新建 Gitee 仓库
 
 使用 Gitee 创建仓库，仓库名称随意：
 
@@ -23,7 +21,7 @@ ssh-keygen -t rsa
 
 完成以上操作后后，每次往 Gitee 仓库推送内容时，Gitee 都能通过公钥识别出你是可信赖的用户，从而无需手动验证身份。
 
-### 同步 Logseq 图谱
+## 同步 Logseq 图谱
 
 将创建的 Gitee 仓库克隆到本地你想放置 Logseq 图谱的位置：
 

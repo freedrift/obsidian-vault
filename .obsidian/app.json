@@ -9,5 +9,5 @@
   "useMarkdownLinks": false,
   "newLinkFormat": "shortest",
   "userIgnoreFilters": null,
-  "showInlineTitle": false
+  "showInlineTitle": true
 }
